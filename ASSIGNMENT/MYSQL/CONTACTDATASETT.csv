@@ -1,0 +1,4 @@
+contactid,companyId,firstname,lastname,Street,City,State,Zip,Ismain,Email,Phone
+201,101,Mahir,Sharma,Juhubeach,Mumbai,Gujarat,23145,1,ash@gmail.com,98654332
+202,101,Anju,Chodhary,"Law garden",Ahmedabad,Gujarat,356765,1,bvc@gmail.com,235667
+203,102,Jack,Lee,cambilen,Canada,Foreing,432245,1,jk@gmail.com,95534424

@@ -1,0 +1,4 @@
+EmployeeId,Firstname,Lastname,Salary,Hiredate,Jobtitle,Email,Phone
+501,Lesley,Bland’s,50000.00,2016-05-22,"Data Analyst",as@gmail.com,9855558800
+502,Zuveriya,Pathan,70000.00,2023-09-27,"Frontend Developer",za@gmail.com,24452456
+503,Dianne,Connor,100000.00,2017-01-16,"Data Science",da@gmail.com,6453424242
